@@ -20,7 +20,6 @@
             <ImageView
                 android:id="@+id/pokemon_image"
                 android:scaleType="fitXY"
-                android:background="@drawable/ic_launcher_background"
                 android:layout_width="150dp"
                 android:layout_height="150dp"/>
             
